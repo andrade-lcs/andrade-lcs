@@ -8,8 +8,8 @@
 - 🤔 I’m looking for help with python and data science.
 - 💬 Ask me about everything, I'll help in what I can
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrade-lcs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrade-lcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrade-lcs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrade-lcs&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **andrade-lcs/andrade-lcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
