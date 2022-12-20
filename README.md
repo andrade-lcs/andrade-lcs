@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I'm Lucas Andrade ant this is my repository GitHub.
-- I'm Civil Engineering and Data Scientist.
-- 🔭 I'm currently working on LTP, that is a laboratoty in USP university.
+- I'm Civil Engineering, Transportation Specialist and Data Scientist.
+- 🔭 I'm currently working on Infra S.A.
 - 🌱 I’m currently learning python, html and css.
 - 👯 I’m looking to collaborate on data projects of transport engineering.
 - 🤔 I’m looking for help with python and data science.
